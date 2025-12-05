@@ -5,7 +5,7 @@ import sys
 from collections import deque
 
 # Configuration
-SERIAL_PORT = 'COM5'  # Change to your Arduino port
+SERIAL_PORT = 'COM5'
 BAUD_RATE = 9600
 SCREEN_WIDTH = 900
 SCREEN_HEIGHT = 700
